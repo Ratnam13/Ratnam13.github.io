@@ -11,22 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. Hons Mechanical, BITS Goa, 2023(expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - June 2021: Intern
+  * Viram Technologies
+  * Performed FEA using ANSYS on a pressure vessel lid to check whether the weld
+thickness was sufficient. Learned about industry standards like ISO and ASME for
+reporting designs and applied the knowledge to create a detailed report about FEA
+findings. Mesh Independence, Global Equilibrium, etc checks were performed to validate
+results.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2021 - August 2021: Team Member
+  * National UAV Design Challenge
+  * Design and analysis of Fixed-wing UAV with payload optimization monitored by a flight
+score.
+  * National rank: 6th
+
+* August 2021 - May 2022: Senior Member
+  * AIAA Design Competetion 2022
+  * Assisted junior team members in working with ANSYS, Solidworks, ICEM, Xflr5 and
+other modeling and analysis softwares as well as guided them during the physical
+building of the aircraft.
+
+Position of Responsibility
+======
+* 
+
 Skills
 ======
 * Skill 1
@@ -36,23 +48,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
